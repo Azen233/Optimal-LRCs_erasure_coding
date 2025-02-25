@@ -1,5 +1,10 @@
 # Building Ceph with OptLRC
 
+## Overview
+This guide provides step-by-step instructions for building and installing Ceph with OptLRC, a variant of locally recoverable codes (LRC) optimized for erasure coding in distributed storage. The implementation is based on the Optimal LRCs introduced in the ATC 2018 paper, with modifications to ensure compatibility with the latest Ceph release (Reef).
+
+Zeren Yang-University of Wisconsin-Madison
+
 ## Prerequisite
 Image: Ubuntu 22.04.2 LTS(Jammy)
 
