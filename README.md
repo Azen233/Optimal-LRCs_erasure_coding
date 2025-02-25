@@ -16,8 +16,8 @@ Filesystem space: ~70G
 Use "sudo" if permission denied in any of the following steps.
 
 ```bash
-git clone https://github.com/Azen233/optlrc2024.git
-cd optlrc2024
+git clone https://github.com/Azen233/Optimal-LRCs_erasure_coding.git
+cd Optimal-LRCs_erasure_coding
 git submodule update --init --recursive --progress
 git clean -fdx
 git submodule foreach git clean -fdx
